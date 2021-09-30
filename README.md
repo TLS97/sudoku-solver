@@ -13,4 +13,4 @@ cells with 0.
 
     An example is shown below.
 
-    <img src="sudokusolver.png" width="300">
+    <img src="sudokusolver.png" width="500">
